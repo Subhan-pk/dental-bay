@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subhan-pk.github.io/dental-bay/sitemap.xml
