@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { FaFacebookF, FaInstagram, FaLinkedinIn, FaMapMarkerAlt, FaPhoneAlt, FaClock, FaTooth } from "react-icons/fa";
+import { FaFacebookF, FaMapMarkerAlt, FaPhoneAlt, FaClock, FaTooth } from "react-icons/fa";
 import { SITE } from "../data/site";
 import { TREATMENTS } from "../data/treatments";
 
@@ -32,20 +32,6 @@ export default function Footer() {
               >
                 <FaFacebookF />
               </a>
-              <span
-                aria-label="Instagram — coming soon"
-                title="Instagram — coming soon"
-                className="flex h-9 w-9 items-center justify-center rounded-full bg-white/5 text-white/30"
-              >
-                <FaInstagram />
-              </span>
-              <span
-                aria-label="LinkedIn — coming soon"
-                title="LinkedIn — coming soon"
-                className="flex h-9 w-9 items-center justify-center rounded-full bg-white/5 text-white/30"
-              >
-                <FaLinkedinIn />
-              </span>
             </div>
           </div>
 
