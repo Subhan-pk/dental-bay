@@ -22,7 +22,7 @@ export const DOCTOR = {
   qualification: "BDS, FCPS (Oral & Maxillofacial Surgery)",
   experience: "4+ Years as Oral & Maxillofacial Surgeon",
   registration: "CEO & Founder, Dental Bay",
-  image: "/images/dr-usman-zaib.jpg",
+  image: `${import.meta.env.BASE_URL}images/dr-usman-zaib.jpg`,
   bio: "Dr. Usman Zaib is an FCPS-qualified Oral and Maxillofacial Surgeon and the CEO of Dental Bay. After completing his BDS at de'Montmorency College of Dentistry and a four-year residency in Oral & Maxillofacial Surgery accredited by the College of Physicians and Surgeons Pakistan, he has led surgical and dental care at Dental Bay since 2022 — combining surgical precision with a genuinely patient-first approach to every procedure.",
   expertise: [
     "Oral & Maxillofacial Surgery",
