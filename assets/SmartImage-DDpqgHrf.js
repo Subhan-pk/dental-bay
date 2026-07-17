@@ -1,0 +1,1 @@
+import{j as n,X as a}from"./index-BCo-_KkR.js";function i({src:t,alt:e,className:s="",...m}){return n.jsx("img",{src:t,alt:e,loading:"lazy",className:`bg-primary-deep ${s}`,onError:r=>{r.currentTarget.src!==a&&(r.currentTarget.src=a)},...m})}export{i as S};
